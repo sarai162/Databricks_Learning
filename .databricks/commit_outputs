@@ -16,3 +16,5 @@
  
 code/02 Null Handling Practice - dropna vs fillna vs when.ipynb
 code/01 Deduplication Practice - dropDuplicates vs Window.ipynb
+code/04 Price Cleaning Practice - strip & cast to decimal.ipynb
+code/03 Standardization Practice - trim & upper (country).ipynb
